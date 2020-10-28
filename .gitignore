@@ -1,0 +1,5 @@
+# Modules
+/node_modules
+
+# In large projects, you better gitignore the build directory as well
+/build

@@ -1,0 +1,19 @@
+{
+  "name": "typescript-first-project",
+  "version": "1.0.0",
+  "description": "@ez.javascript - This is your first TypeScript project!",
+  "main": "./build/index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ez-javascript/typescript-first-project.git"
+  },
+  "author": "ez.javascript",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ez-javascript/typescript-first-project/issues"
+  },
+  "homepage": "https://github.com/ez-javascript/typescript-first-project#readme"
+}
