@@ -28,7 +28,7 @@ Here's a quick guide on how to clone and use this TypeScript project.
   ```
 - Run compiled JavaScript
   ```
-  node .
+  $ node .
   ```
 
 ## Links and resources
